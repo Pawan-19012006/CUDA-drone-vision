@@ -20,6 +20,6 @@ int main() {
         return 1;
     }
 
-    printf("CUDA smoke test passed!\n");
+    printf("CUDA smoke test passed — ready for image processing!\n");
     return 0;
 }
