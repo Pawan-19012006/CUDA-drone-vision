@@ -1,0 +1,4 @@
+
+# Compiled CUDA executables
+/vector_add
+/smoke_test
